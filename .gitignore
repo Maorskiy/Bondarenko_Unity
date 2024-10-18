@@ -1,0 +1,40 @@
+# Згенеровані Unity файли
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+AssetStoreTools*
+
+# Конфігурація користувача Unity
+UserSettings/
+
+# Пакети та кеші
+Packages/
+Library/PackageCache/
+
+# Visual Studio/MonoDevelop
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Згенеровані файли системи
+.DS_Store
+*.apk
+*.unitypackage
+*.aab
+
+# Інші згенеровані та тимчасові файли
+obj/
+*.log
+*.temp
